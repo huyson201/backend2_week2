@@ -1,0 +1,11 @@
+{
+    "name": "backend2/backend2_week2",
+    "description": "test",
+    "authors": [
+        {
+            "name": "HuySon",
+            "email": "huyson201@gmail.com"
+        }
+    ],
+    "require": {}
+}
